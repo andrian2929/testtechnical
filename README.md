@@ -1,1 +1,2 @@
-# testtechnical
+- All the programs are created using Python Programming Language
+- The online compiler is https://repl.it/languages/python3
